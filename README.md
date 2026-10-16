@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Irteza Syed
   
-I'm a **Data Scientist, AI Researcher, and Full-Stack Developer** with over **15+ years of experience** in software development and more than **7 years in data science, AI, and analytics**. My expertise spans **machine learning, deep learning, recommender systems, NLP, computer vision, and big data processing**. I have a strong focus on **backend development**, working extensively with **PHP (Laravel, CodeIgniter), Node.js (Express.js, Next.js), JavaScript, TypeScript, and Python-based AI frameworks**.  
+I am a **PhD-qualified AI researcher** and **software engineering professional** with 15+ years of combined experience across software development, academic research, and technical leadership. My work focuses on deep learning, trustworthy medical AI, multimodal learning, research software engineering, and practical AI applications. I combine research experience with full-stack development, Python-based machine learning, backend systems, and technical project delivery.  
 
 I hold a **Ph.D. in Information Technology**, specializing in **AI-driven predictive modeling and deep learning-based recommender systems**, with multiple research publications in **Q1 journals**. Additionally, I am **certified in Data Science, AI, Power BI, and Analytics** from industry-leading institutions.  
 
